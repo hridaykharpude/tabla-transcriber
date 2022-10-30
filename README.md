@@ -33,5 +33,5 @@ Will be parsed automatically from your code if not specified here.
 Whether the Space stays on top of your list.
 
 
-#Important Note
+# Important Note
 The app.py source code makes use of Gradio Web Interface Dev tool. Thus, the code can only be run on interfaces such as HuggingFaces
