@@ -31,3 +31,7 @@ HF dataset IDs (like "common_voice" or "oscar-corpus/OSCAR-2109") used in the Sp
 Will be parsed automatically from your code if not specified here.
 `pinned`: _boolean_
 Whether the Space stays on top of your list.
+
+
+#Important Note
+The app.py source code makes use of Gradio Web Interface Dev tool. Thus, the code can only be run on interfaces such as HuggingFaces
