@@ -1,13 +1,8 @@
----
-title: Tabla Transcriber
-emoji: 🎶🎼🪘🪘🎼🎶
-colorFrom: red
-colorTo: black
-sdk: gradio
-app_file: app.py
-pinned: false
-license: afl-3.0
----
+# tabla-transcriber
+The 'Tabla Transcriber' predicts the outline rhythm of musical audios. Although originally created for the Tabla (an Indian percussion instrument), the transcriber is applicable for any percussion instruments across the world!
+applicable for anv percussion instrument!
+
+
 # Configuration
 `title`: _string_
 Display title for the Space
